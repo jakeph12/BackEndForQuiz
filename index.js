@@ -6,7 +6,7 @@ const Port = process.env.Port || 3001;
 
 const app = exress();
 
-app.listen(Port,()=>{
+app.listen(Port,'0.0.0.0',()=>{
     console.log("Server start");
 });
 
