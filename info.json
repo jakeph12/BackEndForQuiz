@@ -1,0 +1,15 @@
+{
+    "Player":
+    [
+        {
+            "Lvl": 999,
+            "Name": "Jake",
+            "Password":"123Avs"
+        },
+        {
+            "Lvl": 2,
+            "Name": "Nike",
+            "Password":"123Avs"
+        }
+    ]
+}
