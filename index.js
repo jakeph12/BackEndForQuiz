@@ -2,7 +2,7 @@ const exress = require('express');
 const memory = require('./info.json');
 
 
-const Port = process.env.Port || 3001;
+const Port = process.env.Port || 3000;
 
 const app = exress();
 
